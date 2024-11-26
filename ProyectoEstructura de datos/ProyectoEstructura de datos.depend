@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1725662527 source:c:\users\diego\documents\groovestreet_estructura_de_datos\code\source\list.c
+	<stdlib.h>
+	<string.h>
+	"list.h"
+
+1725662445 c:\users\diego\documents\groovestreet_estructura_de_datos\code\include\list.h
+	<stdlib.h>
+
+1732600171 source:c:\users\diego\downloads\proyectoedd\proyectoestructura de datos\proyectoedd.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<stdlib.h>
+	<ctype.h>
+	"list.h"
+
